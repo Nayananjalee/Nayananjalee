@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayananjalee&label=Profile%20views&color=0e75b6&style=flat" alt="nayananjalee" /> </p>
 
-- 🔭 I’m currently working on **Sinhala Sign Language Detection System **
+- 🔭 I’m currently working on **Sinhala Sign Language Detection System**
 
 - 🌱 Currently exploring learning **Deep Learning, Generative AI, and Real-time Applications**
 
