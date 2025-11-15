@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thulasika Nayananjalee</h1>
 <h3 align="center">Undergraduate student in Data Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayananjalee&label=Profile%20views&color=0e75b6&style=flat" alt="nayananjalee" /> </p>
+
 
 - 🔭 I’m currently working on **Sinhala Sign Language Detection System**
 
